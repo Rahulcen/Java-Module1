@@ -1,10 +1,8 @@
 package oopsday4.polymorphism;
 
-public class Shape {
-
+public class Shape{ 
 	public double area() {
-		// TODO Auto-generated method stub
-		return 0;
+		return 0.0;
+	}
 	}
 
-}

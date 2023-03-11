@@ -1,5 +1,6 @@
 public class java{
 public static void main(String,args[]){
 system.out.println("a");
+system.out.println("Hellow world");
 }
 }
