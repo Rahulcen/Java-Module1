@@ -1,4 +1,4 @@
-package java8day12;
+package testlamdas;
 
 public class TestInterface {
 	public double method();
